@@ -1,0 +1,14 @@
+aside {
+  width: 25%;
+  float: left;
+}
+section {
+  margin-left: 5%;
+  width: 70%;
+  float: left;
+}
+article,
+article h3,
+article p {
+  margin: 0px;
+}
